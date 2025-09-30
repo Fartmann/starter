@@ -1,9 +1,9 @@
 #### MCS 1643 README file
-# **Replace this Project Name**
+# **Assignment 2: Pong**
 
-#### Author: *Replace this with your name*
+#### Author: *Adam Satyshev*
 
-##### Modified: *2024-09-06*
+##### Modified: *2025-09-29*
 
 <br>
 
